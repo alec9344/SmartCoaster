@@ -1,2 +1,5 @@
 ASF
 asf.h
+conf_board.h
+conf_extint.h
+conf_sleepmgr.h
