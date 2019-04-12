@@ -10,7 +10,7 @@
 #define ADC_H_
 
 #include <asf.h>
-#include "coaster_config.h"
+#include "coaster_config/coaster_config.h"
 
 // Initialize ADC input on PB02, PA08, and PA05
 void configure_adc(void);

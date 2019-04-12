@@ -6,7 +6,7 @@
  */ 
 
 #include "tcc.h"
-#include "config/coaster_config.h"
+#include "coaster_config/coaster_config.h"
 
 void config_pwm(void) {
 	struct port_config pin_conf;

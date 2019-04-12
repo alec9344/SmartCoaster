@@ -9,7 +9,7 @@
 #ifndef GPIO_H_
 #define GPIO_H_
 
-#include "config/coaster_config.h"
+#include "coaster_config/coaster_config.h"
 
 // Configure GPIO pins
 void gpio_config(void);

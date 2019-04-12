@@ -1,5 +1,5 @@
 #include <asf.h>
-#include "config/coaster_config.h"
+#include "coaster_config/coaster_config.h"
 #include "coaster_app/coaster_app.h"
 #include "adc/adc.h"
 #include "tc/tc.h"

@@ -10,7 +10,7 @@
 #define USART_H_
 
 #include <asf.h>
-#include "config/coaster_config.h"
+#include "coaster_config/coaster_config.h"
 
 void configure_usart(void);
 

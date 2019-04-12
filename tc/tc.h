@@ -10,7 +10,7 @@
 #define TC_H_
 
 #include <asf.h>
-#include "coaster_config.h"
+#include "coaster_config/coaster_config.h"
 
 // TC configuration and callbacks
 void configure_tc(void);
